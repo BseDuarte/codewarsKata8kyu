@@ -1,0 +1,15 @@
+D:\mainDev\codewars\kataBanjo\banjo\bin\Debug\net6.0\banjo.exe
+D:\mainDev\codewars\kataBanjo\banjo\bin\Debug\net6.0\banjo.deps.json
+D:\mainDev\codewars\kataBanjo\banjo\bin\Debug\net6.0\banjo.runtimeconfig.json
+D:\mainDev\codewars\kataBanjo\banjo\bin\Debug\net6.0\banjo.dll
+D:\mainDev\codewars\kataBanjo\banjo\bin\Debug\net6.0\banjo.pdb
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\banjo.csproj.AssemblyReference.cache
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\banjo.GeneratedMSBuildEditorConfig.editorconfig
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\banjo.AssemblyInfoInputs.cache
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\banjo.AssemblyInfo.cs
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\banjo.csproj.CoreCompileInputs.cache
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\banjo.dll
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\refint\banjo.dll
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\banjo.pdb
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\banjo.genruntimeconfig.cache
+D:\mainDev\codewars\kataBanjo\banjo\obj\Debug\net6.0\ref\banjo.dll
